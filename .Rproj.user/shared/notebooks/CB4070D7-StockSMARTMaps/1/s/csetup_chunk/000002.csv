@@ -1,0 +1,4 @@
+"0","knitr::opts_chunk$set(echo = TRUE)"
+"0","setwd(""C:/Users/bai.li/Documents/StockSMARTVisualizer"")"
+"2","The working directory was changed to C:/Users/bai.li/Documents/StockSMARTVisualizer inside a notebook chunk. The working directory will be reset when the chunk is finished running. Use the knitr root.dir option in the setup chunk to change the working directory for notebook chunks."
+"0","devtools::load_all()"

@@ -1,0 +1,16 @@
+Package: StockSMARTVisualizer
+Title: StockSMART VIsualizer
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Bai",
+           family = "Li",
+           role = c("aut", "cre"),
+           email = "bai.li@noaa.gov")
+Description: Visualize StockSMART data from https://www.st.nmfs.noaa.gov/stocksmart?app=homepage.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports:
+    dplyr
